@@ -1,0 +1,23 @@
+{
+	"name" : "dust-searchForm",
+	"version" : "1.0.0",
+	"main" : "./searchform.plugin.js",
+	"authors" : [
+		{
+			"name" : "Michael Westwood",
+			"email" : "michael@du.st"
+		},
+		{
+			"name" : "Ian Parr",
+			"email" : "ian@du.st"
+		}
+	],
+	"repository" : {
+		"type" : "git",
+		"url" : "git://github.com/dustcollective/dust-searchForm.git"
+	},
+	"dependencies" : {
+		"jQuery" : ">=2.1.1"
+	},
+	"private" : true
+}
