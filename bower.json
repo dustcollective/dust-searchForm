@@ -1,5 +1,5 @@
 {
-	"name" : "dust-searchForm",
+	"name" : "dust-searchform",
 	"version" : "1.0.0",
 	"main" : "./searchform.plugin.js",
 	"authors" : [
