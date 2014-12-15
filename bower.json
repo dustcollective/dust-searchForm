@@ -18,6 +18,5 @@
 	},
 	"dependencies" : {
 		"jQuery" : ">=2.1.1"
-	},
-	"private" : true
+	}
 }
